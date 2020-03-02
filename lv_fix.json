@@ -144,7 +144,7 @@
                 {
                     "type": "MultiPolygon",
                     "id": "novadi.19 Rezekne RezeknesRD",
-                    "properties": {"name": "Rēzekne novads", "reg":"RezeknesRD"},
+                    "properties": {"name": "Rēzekne", "reg":"RezeknesRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[69]]]
                 },
