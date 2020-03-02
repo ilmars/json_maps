@@ -94,15 +94,15 @@
                 },
                 {
                     "type": "MultiPolygon",
-                    "id": "novadi.12 Jurmala RigasRD",
-                    "properties": {"name": "Jurmala", "reg":"RigasRD"},
+                    "id": "novadi.12 Jūrmala RigasRD",
+                    "properties": {"name": "Jūrmala", "reg":"RigasRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[-36,47,48,49,50]]]
                 },
                 {
                     "type": "MultiPolygon",
                     "id": "novadi.13 Stopinu_novads RigasRD",
-                    "properties": {"name": "Stopinu novads", "reg":"RigasRD"},
+                    "properties": {"name": "Stopiņu novads", "reg":"RigasRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[-28,-43,51,-30]]]
                 },
