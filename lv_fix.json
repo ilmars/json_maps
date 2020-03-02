@@ -60,7 +60,7 @@
                 {
                     "type": "MultiPolygon",
                     "id": "novadi.7 Alsungas_novads VentspilsRD",
-                    "properties": {"name": "Alsungas  novads", "reg":"VentspilsRD"},
+                    "properties": {"name": "Alsungas novads", "reg":"VentspilsRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[22,23,24]]]
                 },
@@ -375,7 +375,7 @@
                 {
                     "type": "MultiPolygon",
                     "id": "novadi.52 Jekabpils_novads DaugavpilsRD",
-                    "properties": {"name": "Jēkabpils  novads", "reg":"DaugavpilsRD"},
+                    "properties": {"name": "Jēkabpils novads", "reg":"DaugavpilsRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[211,212,-71,213,214,215,-196,216]]]
                 },
@@ -431,7 +431,7 @@
                 {
                     "type": "MultiPolygon",
                     "id": "novadi.60 Kuldigas_novads VentspilsRD",
-                    "properties": {"name": "Kūldīgas novads", "reg":"VentspilsRD"},
+                    "properties": {"name": "Kuldīgas novads", "reg":"VentspilsRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[245,-23,246,247,-227,248,249,250]]]
                 },
@@ -549,8 +549,8 @@
                 },
                 {
                     "type": "MultiPolygon",
-                    "id": "novadi.77 Pavilostas_novads LiepajasRD",
-                    "properties": {"name": "Pavilostas novads", "reg":"LiepajasRD"},
+                    "id": "novadi.77 Pāvilostas_novads LiepajasRD",
+                    "properties": {"name": "Pāvilostas novads", "reg":"LiepajasRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[293,-24,-246,294,-166,-178,295]]]
                 },
