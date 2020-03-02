@@ -395,8 +395,8 @@
                 },
                 {
                     "type": "MultiPolygon",
-                    "id": "novadi.55 Karsavas_novads RezeknesRD",
-                    "properties": {"name": "Karsavas novads", "reg":"RezeknesRD"},
+                    "id": "novadi.55 Kārsavas_novads RezeknesRD",
+                    "properties": {"name": "Kārsavas novads", "reg":"RezeknesRD"},
                     "geometry_name": "wkb_geometry",
                     "arcs": [[[229,-122,-46,230,-150]]]
                 },
