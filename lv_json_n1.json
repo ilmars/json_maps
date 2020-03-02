@@ -27,7 +27,8 @@
                     "vieta": "Valmiera",
                     "properties": {
                         "title": "Valmiera",
-                        "reg": "ValmierasRD"
+                        "reg": "Valmiera,
+                        "vieta": "Valmiera"sRD"
                     }
                 },
                 {
@@ -42,7 +43,8 @@
                     "vieta": "Ventspils",
                     "properties": {
                         "title": "Ventspils",
-                        "reg": "VentspilsRD"
+                        "reg": "Ventspils,
+                        "vieta": "Ventspils"RD"
                     }
                 },
                 {
@@ -60,7 +62,8 @@
                     "vieta": "Sējas novads",
                     "properties": {
                         "title": "Sējas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Sējas novads"
                     }
                 },
                 {
@@ -78,7 +81,8 @@
                     "vieta": "Carnikavas novads",
                     "properties": {
                         "title": "Carnikavas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Carnikavas novads"
                     }
                 },
                 {
@@ -96,7 +100,8 @@
                     "vieta": "Ādažu novads",
                     "properties": {
                         "title": "Ādažu novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ādažu novads"
                     }
                 },
                 {
@@ -113,7 +118,8 @@
                     "vieta": "Mālpils novads",
                     "properties": {
                         "title": "Mālpils novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Mālpils novads"
                     }
                 },
                 {
@@ -129,7 +135,8 @@
                     "vieta": "Alsungas  novads",
                     "properties": {
                         "title": "Alsungas  novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Alsungas  novads"
                     }
                 },
                 {
@@ -148,7 +155,8 @@
                     "vieta": "Garkalnes novads",
                     "properties": {
                         "title": "Garkalnes novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Garkalnes novads"
                     }
                 },
                 {
@@ -171,7 +179,8 @@
                     "vieta": "Rīga",
                     "properties": {
                         "title": "Rīga",
-                        "reg": "RigasRD"
+                        "reg": "Riga,
+                        "vieta": "Rīga"sRD"
                     }
                 },
                 {
@@ -192,7 +201,8 @@
                     "vieta": "Ropažu novads",
                     "properties": {
                         "title": "Ropažu novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ropažu novads"
                     }
                 },
                 {
@@ -209,7 +219,8 @@
                     "vieta": "Baltinavas novads",
                     "properties": {
                         "title": "Baltinavas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Baltinavas novads"
                     }
                 },
                 {
@@ -227,7 +238,8 @@
                     "vieta": "Jurmala",
                     "properties": {
                         "title": "Jurmala",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD,
+                        "vieta": "Jurmala""
                     }
                 },
                 {
@@ -244,7 +256,8 @@
                     "vieta": "Stopinu novads",
                     "properties": {
                         "title": "Stopinu novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Stopinu novads"
                     }
                 },
                 {
@@ -260,7 +273,8 @@
                     "vieta": "Mārupes novads",
                     "properties": {
                         "title": "Mārupes novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Mārupes novads"
                     }
                 },
                 {
@@ -278,7 +292,8 @@
                     "vieta": "Skrīveru novads",
                     "properties": {
                         "title": "Skrīveru novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Skrīveru novads"
                     }
                 },
                 {
@@ -296,7 +311,8 @@
                     "vieta": "Iecavas novads",
                     "properties": {
                         "title": "Iecavas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Iecavas novads"
                     }
                 },
                 {
@@ -311,7 +327,8 @@
                     "vieta": "Jelgava",
                     "properties": {
                         "title": "Jelgava",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD,
+                        "vieta": "Jelgava""
                     }
                 },
                 {
@@ -327,7 +344,8 @@
                     "vieta": "Liepāja",
                     "properties": {
                         "title": "Liepāja",
-                        "reg": "LiepajasRD"
+                        "reg": "Liepaja,
+                        "vieta": "Liepāja"sRD"
                     }
                 },
                 {
@@ -336,7 +354,8 @@
                     "vieta": "Rēzekne novads",
                     "properties": {
                         "title": "Rēzekne novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Rēzekne novads"
                     }
                 },
                 {
@@ -352,7 +371,8 @@
                     "vieta": "Jēkabpils",
                     "properties": {
                         "title": "Jēkabpils",
-                        "reg": "DaugavpilsRD"
+                        "reg": "Daugavpil,
+                        "vieta": "Jēkabpils"sRD"
                     }
                 },
                 {
@@ -370,7 +390,8 @@
                     "vieta": "Aglonas novads",
                     "properties": {
                         "title": "Aglonas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Aglonas novads"
                     }
                 },
                 {
@@ -387,7 +408,8 @@
                     "vieta": "Aizkraukles novads",
                     "properties": {
                         "title": "Aizkraukles novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Aizkraukles novads"
                     }
                 },
                 {
@@ -406,7 +428,8 @@
                     "vieta": "Alojas novads",
                     "properties": {
                         "title": "Alojas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Alojas novads"
                     }
                 },
                 {
@@ -424,7 +447,8 @@
                     "vieta": "Alūksnes novads",
                     "properties": {
                         "title": "Alūksnes novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Alūksnes novads"
                     }
                 },
                 {
@@ -444,7 +468,8 @@
                     "vieta": "Amatas novads",
                     "properties": {
                         "title": "Amatas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Amatas novads"
                     }
                 },
                 {
@@ -462,7 +487,8 @@
                     "vieta": "Apes novads",
                     "properties": {
                         "title": "Apes novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD,
+                        "vieta": "Apes novads""
                     }
                 },
                 {
@@ -482,7 +508,8 @@
                     "vieta": "Auces novads",
                     "properties": {
                         "title": "Auces novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Auces novads"
                     }
                 },
                 {
@@ -501,7 +528,8 @@
                     "vieta": "Babītes novads",
                     "properties": {
                         "title": "Babītes novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Babītes novads"
                     }
                 },
                 {
@@ -519,7 +547,8 @@
                     "vieta": "Baldones novads",
                     "properties": {
                         "title": "Baldones novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Baldones novads"
                     }
                 },
                 {
@@ -541,7 +570,8 @@
                     "vieta": "Balvu novads",
                     "properties": {
                         "title": "Balvu novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Balvu novads"
                     }
                 },
                 {
@@ -559,7 +589,8 @@
                     "vieta": "Bauskas novads",
                     "properties": {
                         "title": "Bauskas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Bauskas novads"
                     }
                 },
                 {
@@ -578,7 +609,8 @@
                     "vieta": "Beverīnas novads",
                     "properties": {
                         "title": "Beverīnas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Beverīnas novads"
                     }
                 },
                 {
@@ -598,7 +630,8 @@
                     "vieta": "Brocēnu novads",
                     "properties": {
                         "title": "Brocēnu novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Brocēnu novads"
                     }
                 },
                 {
@@ -620,7 +653,8 @@
                     "vieta": "Burtnieku novads",
                     "properties": {
                         "title": "Burtnieku novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Burtnieku novads"
                     }
                 },
                 {
@@ -637,7 +671,8 @@
                     "vieta": "Cēsu novads",
                     "properties": {
                         "title": "Cēsu novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD,
+                        "vieta": "Cēsu novads""
                     }
                 },
                 {
@@ -652,7 +687,8 @@
                     "vieta": "Cesvaines novads",
                     "properties": {
                         "title": "Cesvaines novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Cesvaines novads"
                     }
                 },
                 {
@@ -669,7 +705,8 @@
                     "vieta": "Ciblas novads",
                     "properties": {
                         "title": "Ciblas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Ciblas novads"
                     }
                 },
                 {
@@ -688,7 +725,8 @@
                     "vieta": "Dagdas novads",
                     "properties": {
                         "title": "Dagdas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Dagdas novads"
                     }
                 },
                 {
@@ -702,7 +740,8 @@
                     "vieta": "Daugavpils",
                     "properties": {
                         "title": "Daugavpils",
-                        "reg": "DaugavpilsRD"
+                        "reg": "Daugavpils,
+                        "vieta": "Daugavpils"RD"
                     }
                 },
                 {
@@ -719,7 +758,8 @@
                     "vieta": "Dundagas novads",
                     "properties": {
                         "title": "Dundagas novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Dundagas novads"
                     }
                 },
                 {
@@ -736,7 +776,8 @@
                     "vieta": "Durbes novads",
                     "properties": {
                         "title": "Durbes novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Durbes novads"
                     }
                 },
                 {
@@ -753,7 +794,8 @@
                     "vieta": "Engures novads",
                     "properties": {
                         "title": "Engures novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Engures novads"
                     }
                 },
                 {
@@ -771,7 +813,8 @@
                     "vieta": "Ērgļu novads",
                     "properties": {
                         "title": "Ērgļu novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Ērgļu novads"
                     }
                 },
                 {
@@ -791,7 +834,8 @@
                     "vieta": "Grobiņas novads",
                     "properties": {
                         "title": "Grobiņas novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Grobiņas novads"
                     }
                 },
                 {
@@ -815,7 +859,8 @@
                     "vieta": "Gulbenes novads",
                     "properties": {
                         "title": "Gulbenes novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Gulbenes novads"
                     }
                 },
                 {
@@ -833,7 +878,8 @@
                     "vieta": "Ikšķiles novads",
                     "properties": {
                         "title": "Ikšķiles novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ikšķiles novads"
                     }
                 },
                 {
@@ -852,7 +898,8 @@
                     "vieta": "Inčukalna novads",
                     "properties": {
                         "title": "Inčukalna novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Inčukalna novads"
                     }
                 },
                 {
@@ -869,7 +916,8 @@
                     "vieta": "Ilūkstes novads",
                     "properties": {
                         "title": "Ilūkstes novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Ilūkstes novads"
                     }
                 },
                 {
@@ -891,7 +939,8 @@
                     "vieta": "Jaunjelgavas novads",
                     "properties": {
                         "title": "Jaunjelgavas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Jaunjelgavas novads"
                     }
                 },
                 {
@@ -908,7 +957,8 @@
                     "vieta": "Jaunpiebalgas novads",
                     "properties": {
                         "title": "Jaunpiebalgas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Jaunpiebalgas novads"
                     }
                 },
                 {
@@ -925,7 +975,8 @@
                     "vieta": "Jaunpils novads",
                     "properties": {
                         "title": "Jaunpils novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Jaunpils novads"
                     }
                 },
                 {
@@ -946,7 +997,8 @@
                     "vieta": "Jēkabpils  novads",
                     "properties": {
                         "title": "Jēkabpils  novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Jēkabpils  novads"
                     }
                 },
                 {
@@ -969,7 +1021,8 @@
                     "vieta": "Jelgavas novads",
                     "properties": {
                         "title": "Jelgavas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Jelgavas novads"
                     }
                 },
                 {
@@ -988,7 +1041,8 @@
                     "vieta": "Kandavas novads",
                     "properties": {
                         "title": "Kandavas novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Kandavas novads"
                     }
                 },
                 {
@@ -1006,7 +1060,8 @@
                     "vieta": "Karsavas novads",
                     "properties": {
                         "title": "Karsavas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Karsavas novads"
                     }
                 },
                 {
@@ -1024,7 +1079,8 @@
                     "vieta": "Kokneses novads",
                     "properties": {
                         "title": "Kokneses novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Kokneses novads"
                     }
                 },
                 {
@@ -1041,7 +1097,8 @@
                     "vieta": "Krāslavas novads",
                     "properties": {
                         "title": "Krāslavas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Krāslavas novads"
                     }
                 },
                 {
@@ -1060,7 +1117,8 @@
                     "vieta": "Krimuldas novads",
                     "properties": {
                         "title": "Krimuldas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Krimuldas novads"
                     }
                 },
                 {
@@ -1081,7 +1139,8 @@
                     "vieta": "Krustpils novads",
                     "properties": {
                         "title": "Krustpils novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Krustpils novads"
                     }
                 },
                 {
@@ -1102,7 +1161,8 @@
                     "vieta": "Kūldīgas novads",
                     "properties": {
                         "title": "Kūldīgas novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Kūldīgas novads"
                     }
                 },
                 {
@@ -1123,7 +1183,8 @@
                     "vieta": "Ķeguma novads",
                     "properties": {
                         "title": "Ķeguma novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ķeguma novads"
                     }
                 },
                 {
@@ -1144,7 +1205,8 @@
                     "vieta": "Ķekavas novads",
                     "properties": {
                         "title": "Ķekavas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ķekavas novads"
                     }
                 },
                 {
@@ -1160,7 +1222,8 @@
                     "vieta": "Lielvārdes novads",
                     "properties": {
                         "title": "Lielvārdes novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Lielvārdes novads"
                     }
                 },
                 {
@@ -1177,7 +1240,8 @@
                     "vieta": "Līgatnes novads",
                     "properties": {
                         "title": "Līgatnes novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Līgatnes novads"
                     }
                 },
                 {
@@ -1198,7 +1262,8 @@
                     "vieta": "Limbažu novads",
                     "properties": {
                         "title": "Limbažu novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Limbažu novads"
                     }
                 },
                 {
@@ -1217,7 +1282,8 @@
                     "vieta": "Līvānu novads",
                     "properties": {
                         "title": "Līvānu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Līvānu novads"
                     }
                 },
                 {
@@ -1234,7 +1300,8 @@
                     "vieta": "Lubânas novads",
                     "properties": {
                         "title": "Lubânas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Lubânas novads"
                     }
                 },
                 {
@@ -1260,7 +1327,8 @@
                     "vieta": "Madonas novads",
                     "properties": {
                         "title": "Madonas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Madonas novads"
                     }
                 },
                 {
@@ -1277,7 +1345,8 @@
                     "vieta": "Mazsalacas novads",
                     "properties": {
                         "title": "Mazsalacas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Mazsalacas novads"
                     }
                 },
                 {
@@ -1294,7 +1363,8 @@
                     "vieta": "Naukšēnu novads",
                     "properties": {
                         "title": "Naukšēnu novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Naukšēnu novads"
                     }
                 },
                 {
@@ -1311,7 +1381,8 @@
                     "vieta": "Neretas novads",
                     "properties": {
                         "title": "Neretas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Neretas novads"
                     }
                 },
                 {
@@ -1328,7 +1399,8 @@
                     "vieta": "Nīcas novads",
                     "properties": {
                         "title": "Nīcas novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Nīcas novads"
                     }
                 },
                 {
@@ -1352,7 +1424,8 @@
                     "vieta": "Ogres novads",
                     "properties": {
                         "title": "Ogres novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ogres novads"
                     }
                 },
                 {
@@ -1373,7 +1446,8 @@
                     "vieta": "Ozolnieku novads",
                     "properties": {
                         "title": "Ozolnieku novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Ozolnieku novads"
                     }
                 },
                 {
@@ -1402,7 +1476,8 @@
                     "vieta": "Olaines novads",
                     "properties": {
                         "title": "Olaines novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Olaines novads"
                     }
                 },
                 {
@@ -1422,7 +1497,8 @@
                     "vieta": "Pārgaujas novads",
                     "properties": {
                         "title": "Pārgaujas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Pārgaujas novads"
                     }
                 },
                 {
@@ -1442,7 +1518,8 @@
                     "vieta": "Pavilostas novads",
                     "properties": {
                         "title": "Pavilostas novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Pavilostas novads"
                     }
                 },
                 {
@@ -1461,7 +1538,8 @@
                     "vieta": "Pļaviņu novads",
                     "properties": {
                         "title": "Pļaviņu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Pļaviņu novads"
                     }
                 },
                 {
@@ -1478,7 +1556,8 @@
                     "vieta": "Preiļu novads",
                     "properties": {
                         "title": "Preiļu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Preiļu novads"
                     }
                 },
                 {
@@ -1497,7 +1576,8 @@
                     "vieta": "Priekules novads",
                     "properties": {
                         "title": "Priekules novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Priekules novads"
                     }
                 },
                 {
@@ -1517,7 +1597,8 @@
                     "vieta": "Priekuļu novads",
                     "properties": {
                         "title": "Priekuļu novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Priekuļu novads"
                     }
                 },
                 {
@@ -1543,7 +1624,8 @@
                     "vieta": "Raunas novads",
                     "properties": {
                         "title": "Raunas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Raunas novads"
                     }
                 },
                 {
@@ -1564,7 +1646,8 @@
                     "vieta": "Riebiņu novads",
                     "properties": {
                         "title": "Riebiņu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Riebiņu novads"
                     }
                 },
                 {
@@ -1582,7 +1665,8 @@
                     "vieta": "Rojas novads",
                     "properties": {
                         "title": "Rojas novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Rojas novads"
                     }
                 },
                 {
@@ -1599,7 +1683,8 @@
                     "vieta": "Rucavas novads",
                     "properties": {
                         "title": "Rucavas novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Rucavas novads"
                     }
                 },
                 {
@@ -1615,7 +1700,8 @@
                     "vieta": "Rugāju novads",
                     "properties": {
                         "title": "Rugāju novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Rugāju novads"
                     }
                 },
                 {
@@ -1631,7 +1717,8 @@
                     "vieta": "Rundāles novads",
                     "properties": {
                         "title": "Rundāles novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Rundāles novads"
                     }
                 },
                 {
@@ -1648,7 +1735,8 @@
                     "vieta": "Rūjienas novads",
                     "properties": {
                         "title": "Rūjienas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Rūjienas novads"
                     }
                 },
                 {
@@ -1664,7 +1752,8 @@
                     "vieta": "Salacgrīvas novads",
                     "properties": {
                         "title": "Salacgrīvas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Salacgrīvas novads"
                     }
                 },
                 {
@@ -1683,7 +1772,8 @@
                     "vieta": "Salas novads",
                     "properties": {
                         "title": "Salas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD,
+                        "vieta": "Salas novads""
                     }
                 },
                 {
@@ -1701,7 +1791,8 @@
                     "vieta": "Salaspils novads",
                     "properties": {
                         "title": "Salaspils novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Salaspils novads"
                     }
                 },
                 {
@@ -1721,7 +1812,8 @@
                     "vieta": "Saldus novads",
                     "properties": {
                         "title": "Saldus novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Saldus novads"
                     }
                 },
                 {
@@ -1739,7 +1831,8 @@
                     "vieta": "Saulkrastu novads",
                     "properties": {
                         "title": "Saulkrastu novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Saulkrastu novads"
                     }
                 },
                 {
@@ -1758,7 +1851,8 @@
                     "vieta": "Siguldas novads",
                     "properties": {
                         "title": "Siguldas novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Siguldas novads"
                     }
                 },
                 {
@@ -1775,7 +1869,8 @@
                     "vieta": "Skrundas novads",
                     "properties": {
                         "title": "Skrundas novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Skrundas novads"
                     }
                 },
                 {
@@ -1797,7 +1892,8 @@
                     "vieta": "Smiltenes novads",
                     "properties": {
                         "title": "Smiltenes novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Smiltenes novads"
                     }
                 },
                 {
@@ -1814,7 +1910,8 @@
                     "vieta": "Strenču novads",
                     "properties": {
                         "title": "Strenču novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Strenču novads"
                     }
                 },
                 {
@@ -1839,7 +1936,8 @@
                     "vieta": "Daugavpils novads",
                     "properties": {
                         "title": "Daugavpils novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Daugavpils novads"
                     }
                 },
                 {
@@ -1856,7 +1954,8 @@
                     "vieta": "Aknīstes novads",
                     "properties": {
                         "title": "Aknīstes novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Aknīstes novads"
                     }
                 },
                 {
@@ -1875,7 +1974,8 @@
                     "vieta": "Aizputes novads",
                     "properties": {
                         "title": "Aizputes novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Aizputes novads"
                     }
                 },
                 {
@@ -1893,7 +1993,8 @@
                     "vieta": "Ludzas novads",
                     "properties": {
                         "title": "Ludzas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Ludzas novads"
                     }
                 },
                 {
@@ -1915,7 +2016,8 @@
                     "vieta": "Rēzeknes novads",
                     "properties": {
                         "title": "Rēzeknes novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Rēzeknes novads"
                     }
                 },
                 {
@@ -1934,7 +2036,8 @@
                     "vieta": "Talsu novads",
                     "properties": {
                         "title": "Talsu novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Talsu novads"
                     }
                 },
                 {
@@ -1951,7 +2054,8 @@
                     "vieta": "Tērvetes novads",
                     "properties": {
                         "title": "Tērvetes novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Tērvetes novads"
                     }
                 },
                 {
@@ -1973,7 +2077,8 @@
                     "vieta": "Tukuma novads",
                     "properties": {
                         "title": "Tukuma novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Tukuma novads"
                     }
                 },
                 {
@@ -1991,7 +2096,8 @@
                     "vieta": "Vaiņodes novads",
                     "properties": {
                         "title": "Vaiņodes novads",
-                        "reg": "LiepajasRD"
+                        "reg": "LiepajasRD",
+                        "vieta": "Vaiņodes novads"
                     }
                 },
                 {
@@ -2010,7 +2116,8 @@
                     "vieta": "Valkas novads",
                     "properties": {
                         "title": "Valkas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Valkas novads"
                     }
                 },
                 {
@@ -2030,7 +2137,8 @@
                     "vieta": "Valmieras novads",
                     "properties": {
                         "title": "Valmieras novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Valmieras novads"
                     }
                 },
                 {
@@ -2047,7 +2155,8 @@
                     "vieta": "Varakļānu novads",
                     "properties": {
                         "title": "Varakļānu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Varakļānu novads"
                     }
                 },
                 {
@@ -2063,7 +2172,8 @@
                     "vieta": "Vārkavas novads",
                     "properties": {
                         "title": "Vārkavas novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Vārkavas novads"
                     }
                 },
                 {
@@ -2086,7 +2196,8 @@
                     "vieta": "Vecpiebalgas novads",
                     "properties": {
                         "title": "Vecpiebalgas novads",
-                        "reg": "ValmierasRD"
+                        "reg": "ValmierasRD",
+                        "vieta": "Vecpiebalgas novads"
                     }
                 },
                 {
@@ -2106,7 +2217,8 @@
                     "vieta": "Vecumnieku novads",
                     "properties": {
                         "title": "Vecumnieku novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Vecumnieku novads"
                     }
                 },
                 {
@@ -2127,7 +2239,8 @@
                     "vieta": "Ventspils novads",
                     "properties": {
                         "title": "Ventspils novads",
-                        "reg": "VentspilsRD"
+                        "reg": "VentspilsRD",
+                        "vieta": "Ventspils novads"
                     }
                 },
                 {
@@ -2146,7 +2259,8 @@
                     "vieta": "Viesītes novads",
                     "properties": {
                         "title": "Viesītes novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Viesītes novads"
                     }
                 },
                 {
@@ -2163,7 +2277,8 @@
                     "vieta": "Viļakas novads",
                     "properties": {
                         "title": "Viļakas novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Viļakas novads"
                     }
                 },
                 {
@@ -2180,7 +2295,8 @@
                     "vieta": "Viļānu novads",
                     "properties": {
                         "title": "Viļānu novads",
-                        "reg": "DaugavpilsRD"
+                        "reg": "DaugavpilsRD",
+                        "vieta": "Viļānu novads"
                     }
                 },
                 {
@@ -2196,7 +2312,8 @@
                     "vieta": "Zilupes novads",
                     "properties": {
                         "title": "Zilupes novads",
-                        "reg": "RezeknesRD"
+                        "reg": "RezeknesRD",
+                        "vieta": "Zilupes novads"
                     }
                 },
                 {
@@ -2215,7 +2332,8 @@
                     "vieta": "Dobeles novads",
                     "properties": {
                         "title": "Dobeles novads",
-                        "reg": "RigasRD"
+                        "reg": "RigasRD",
+                        "vieta": "Dobeles novads"
                     }
                 }
             ]
