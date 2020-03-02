@@ -24,6 +24,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Valmiera",
+                    "vieta": "Valmiera",
                     "properties": {
                         "title": "Valmiera",
                         "reg": "ValmierasRD"
@@ -38,6 +39,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ventspils",
+                    "vieta": "Ventspils",
                     "properties": {
                         "title": "Ventspils",
                         "reg": "VentspilsRD"
@@ -55,6 +57,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Sējas novads",
+                    "vieta": "Sējas novads",
                     "properties": {
                         "title": "Sējas novads",
                         "reg": "RigasRD"
@@ -72,6 +75,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Carnikavas novads",
+                    "vieta": "Carnikavas novads",
                     "properties": {
                         "title": "Carnikavas novads",
                         "reg": "RigasRD"
@@ -89,6 +93,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ādažu novads",
+                    "vieta": "Ādažu novads",
                     "properties": {
                         "title": "Ādažu novads",
                         "reg": "RigasRD"
@@ -105,6 +110,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Mālpils novads",
+                    "vieta": "Mālpils novads",
                     "properties": {
                         "title": "Mālpils novads",
                         "reg": "RigasRD"
@@ -120,6 +126,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Alsungas  novads",
+                    "vieta": "Alsungas  novads",
                     "properties": {
                         "title": "Alsungas  novads",
                         "reg": "VentspilsRD"
@@ -138,6 +145,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Garkalnes novads",
+                    "vieta": "Garkalnes novads",
                     "properties": {
                         "title": "Garkalnes novads",
                         "reg": "RigasRD"
@@ -160,6 +168,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rīga",
+                    "vieta": "Rīga",
                     "properties": {
                         "title": "Rīga",
                         "reg": "RigasRD"
@@ -180,6 +189,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ropažu novads",
+                    "vieta": "Ropažu novads",
                     "properties": {
                         "title": "Ropažu novads",
                         "reg": "RigasRD"
@@ -196,6 +206,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Baltinavas novads",
+                    "vieta": "Baltinavas novads",
                     "properties": {
                         "title": "Baltinavas novads",
                         "reg": "RezeknesRD"
@@ -213,6 +224,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jurmala",
+                    "vieta": "Jurmala",
                     "properties": {
                         "title": "Jurmala",
                         "reg": "RigasRD"
@@ -229,6 +241,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Stopinu novads",
+                    "vieta": "Stopinu novads",
                     "properties": {
                         "title": "Stopinu novads",
                         "reg": "RigasRD"
@@ -244,6 +257,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Mārupes novads",
+                    "vieta": "Mārupes novads",
                     "properties": {
                         "title": "Mārupes novads",
                         "reg": "RigasRD"
@@ -261,6 +275,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Skrīveru novads",
+                    "vieta": "Skrīveru novads",
                     "properties": {
                         "title": "Skrīveru novads",
                         "reg": "DaugavpilsRD"
@@ -278,6 +293,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Iecavas novads",
+                    "vieta": "Iecavas novads",
                     "properties": {
                         "title": "Iecavas novads",
                         "reg": "RigasRD"
@@ -292,6 +308,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jelgava",
+                    "vieta": "Jelgava",
                     "properties": {
                         "title": "Jelgava",
                         "reg": "RigasRD"
@@ -307,6 +324,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Liepāja",
+                    "vieta": "Liepāja",
                     "properties": {
                         "title": "Liepāja",
                         "reg": "LiepajasRD"
@@ -315,6 +333,7 @@
                 {
                     "type": null,
                     "id": "Rēzekne novads",
+                    "vieta": "Rēzekne novads",
                     "properties": {
                         "title": "Rēzekne novads",
                         "reg": "RezeknesRD"
@@ -330,6 +349,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jēkabpils",
+                    "vieta": "Jēkabpils",
                     "properties": {
                         "title": "Jēkabpils",
                         "reg": "DaugavpilsRD"
@@ -347,6 +367,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Aglonas novads",
+                    "vieta": "Aglonas novads",
                     "properties": {
                         "title": "Aglonas novads",
                         "reg": "DaugavpilsRD"
@@ -363,6 +384,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Aizkraukles novads",
+                    "vieta": "Aizkraukles novads",
                     "properties": {
                         "title": "Aizkraukles novads",
                         "reg": "DaugavpilsRD"
@@ -381,6 +403,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Alojas novads",
+                    "vieta": "Alojas novads",
                     "properties": {
                         "title": "Alojas novads",
                         "reg": "ValmierasRD"
@@ -398,6 +421,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Alūksnes novads",
+                    "vieta": "Alūksnes novads",
                     "properties": {
                         "title": "Alūksnes novads",
                         "reg": "RezeknesRD"
@@ -417,6 +441,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Amatas novads",
+                    "vieta": "Amatas novads",
                     "properties": {
                         "title": "Amatas novads",
                         "reg": "ValmierasRD"
@@ -434,6 +459,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Apes novads",
+                    "vieta": "Apes novads",
                     "properties": {
                         "title": "Apes novads",
                         "reg": "ValmierasRD"
@@ -453,6 +479,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Auces novads",
+                    "vieta": "Auces novads",
                     "properties": {
                         "title": "Auces novads",
                         "reg": "LiepajasRD"
@@ -471,6 +498,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Babītes novads",
+                    "vieta": "Babītes novads",
                     "properties": {
                         "title": "Babītes novads",
                         "reg": "RigasRD"
@@ -488,6 +516,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Baldones novads",
+                    "vieta": "Baldones novads",
                     "properties": {
                         "title": "Baldones novads",
                         "reg": "RigasRD"
@@ -509,6 +538,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Balvu novads",
+                    "vieta": "Balvu novads",
                     "properties": {
                         "title": "Balvu novads",
                         "reg": "RezeknesRD"
@@ -526,6 +556,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Bauskas novads",
+                    "vieta": "Bauskas novads",
                     "properties": {
                         "title": "Bauskas novads",
                         "reg": "RigasRD"
@@ -544,6 +575,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Beverīnas novads",
+                    "vieta": "Beverīnas novads",
                     "properties": {
                         "title": "Beverīnas novads",
                         "reg": "ValmierasRD"
@@ -563,6 +595,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Brocēnu novads",
+                    "vieta": "Brocēnu novads",
                     "properties": {
                         "title": "Brocēnu novads",
                         "reg": "LiepajasRD"
@@ -584,6 +617,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Burtnieku novads",
+                    "vieta": "Burtnieku novads",
                     "properties": {
                         "title": "Burtnieku novads",
                         "reg": "ValmierasRD"
@@ -600,6 +634,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Cēsu novads",
+                    "vieta": "Cēsu novads",
                     "properties": {
                         "title": "Cēsu novads",
                         "reg": "ValmierasRD"
@@ -614,6 +649,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Cesvaines novads",
+                    "vieta": "Cesvaines novads",
                     "properties": {
                         "title": "Cesvaines novads",
                         "reg": "RezeknesRD"
@@ -630,6 +666,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ciblas novads",
+                    "vieta": "Ciblas novads",
                     "properties": {
                         "title": "Ciblas novads",
                         "reg": "RezeknesRD"
@@ -648,6 +685,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Dagdas novads",
+                    "vieta": "Dagdas novads",
                     "properties": {
                         "title": "Dagdas novads",
                         "reg": "DaugavpilsRD"
@@ -661,6 +699,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Daugavpils",
+                    "vieta": "Daugavpils",
                     "properties": {
                         "title": "Daugavpils",
                         "reg": "DaugavpilsRD"
@@ -677,6 +716,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Dundagas novads",
+                    "vieta": "Dundagas novads",
                     "properties": {
                         "title": "Dundagas novads",
                         "reg": "VentspilsRD"
@@ -693,6 +733,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Durbes novads",
+                    "vieta": "Durbes novads",
                     "properties": {
                         "title": "Durbes novads",
                         "reg": "LiepajasRD"
@@ -709,6 +750,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Engures novads",
+                    "vieta": "Engures novads",
                     "properties": {
                         "title": "Engures novads",
                         "reg": "VentspilsRD"
@@ -726,6 +768,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ērgļu novads",
+                    "vieta": "Ērgļu novads",
                     "properties": {
                         "title": "Ērgļu novads",
                         "reg": "RezeknesRD"
@@ -745,6 +788,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Grobiņas novads",
+                    "vieta": "Grobiņas novads",
                     "properties": {
                         "title": "Grobiņas novads",
                         "reg": "LiepajasRD"
@@ -768,6 +812,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Gulbenes novads",
+                    "vieta": "Gulbenes novads",
                     "properties": {
                         "title": "Gulbenes novads",
                         "reg": "RezeknesRD"
@@ -785,6 +830,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ikšķiles novads",
+                    "vieta": "Ikšķiles novads",
                     "properties": {
                         "title": "Ikšķiles novads",
                         "reg": "RigasRD"
@@ -803,6 +849,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Inčukalna novads",
+                    "vieta": "Inčukalna novads",
                     "properties": {
                         "title": "Inčukalna novads",
                         "reg": "RigasRD"
@@ -819,6 +866,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ilūkstes novads",
+                    "vieta": "Ilūkstes novads",
                     "properties": {
                         "title": "Ilūkstes novads",
                         "reg": "DaugavpilsRD"
@@ -840,6 +888,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jaunjelgavas novads",
+                    "vieta": "Jaunjelgavas novads",
                     "properties": {
                         "title": "Jaunjelgavas novads",
                         "reg": "DaugavpilsRD"
@@ -856,6 +905,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jaunpiebalgas novads",
+                    "vieta": "Jaunpiebalgas novads",
                     "properties": {
                         "title": "Jaunpiebalgas novads",
                         "reg": "ValmierasRD"
@@ -872,6 +922,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jaunpils novads",
+                    "vieta": "Jaunpils novads",
                     "properties": {
                         "title": "Jaunpils novads",
                         "reg": "LiepajasRD"
@@ -892,6 +943,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jēkabpils  novads",
+                    "vieta": "Jēkabpils  novads",
                     "properties": {
                         "title": "Jēkabpils  novads",
                         "reg": "DaugavpilsRD"
@@ -914,6 +966,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Jelgavas novads",
+                    "vieta": "Jelgavas novads",
                     "properties": {
                         "title": "Jelgavas novads",
                         "reg": "RigasRD"
@@ -932,6 +985,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Kandavas novads",
+                    "vieta": "Kandavas novads",
                     "properties": {
                         "title": "Kandavas novads",
                         "reg": "VentspilsRD"
@@ -949,6 +1003,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Karsavas novads",
+                    "vieta": "Karsavas novads",
                     "properties": {
                         "title": "Karsavas novads",
                         "reg": "RezeknesRD"
@@ -966,6 +1021,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Kokneses novads",
+                    "vieta": "Kokneses novads",
                     "properties": {
                         "title": "Kokneses novads",
                         "reg": "DaugavpilsRD"
@@ -982,6 +1038,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Krāslavas novads",
+                    "vieta": "Krāslavas novads",
                     "properties": {
                         "title": "Krāslavas novads",
                         "reg": "DaugavpilsRD"
@@ -1000,6 +1057,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Krimuldas novads",
+                    "vieta": "Krimuldas novads",
                     "properties": {
                         "title": "Krimuldas novads",
                         "reg": "ValmierasRD"
@@ -1020,6 +1078,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Krustpils novads",
+                    "vieta": "Krustpils novads",
                     "properties": {
                         "title": "Krustpils novads",
                         "reg": "DaugavpilsRD"
@@ -1040,6 +1099,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Kūldīgas novads",
+                    "vieta": "Kūldīgas novads",
                     "properties": {
                         "title": "Kūldīgas novads",
                         "reg": "VentspilsRD"
@@ -1060,6 +1120,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ķeguma novads",
+                    "vieta": "Ķeguma novads",
                     "properties": {
                         "title": "Ķeguma novads",
                         "reg": "RigasRD"
@@ -1080,6 +1141,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ķekavas novads",
+                    "vieta": "Ķekavas novads",
                     "properties": {
                         "title": "Ķekavas novads",
                         "reg": "RigasRD"
@@ -1095,6 +1157,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Lielvārdes novads",
+                    "vieta": "Lielvārdes novads",
                     "properties": {
                         "title": "Lielvārdes novads",
                         "reg": "RigasRD"
@@ -1111,6 +1174,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Līgatnes novads",
+                    "vieta": "Līgatnes novads",
                     "properties": {
                         "title": "Līgatnes novads",
                         "reg": "ValmierasRD"
@@ -1131,6 +1195,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Limbažu novads",
+                    "vieta": "Limbažu novads",
                     "properties": {
                         "title": "Limbažu novads",
                         "reg": "ValmierasRD"
@@ -1149,6 +1214,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Līvānu novads",
+                    "vieta": "Līvānu novads",
                     "properties": {
                         "title": "Līvānu novads",
                         "reg": "DaugavpilsRD"
@@ -1165,6 +1231,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Lubânas novads",
+                    "vieta": "Lubânas novads",
                     "properties": {
                         "title": "Lubânas novads",
                         "reg": "RezeknesRD"
@@ -1190,6 +1257,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Madonas novads",
+                    "vieta": "Madonas novads",
                     "properties": {
                         "title": "Madonas novads",
                         "reg": "RezeknesRD"
@@ -1206,6 +1274,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Mazsalacas novads",
+                    "vieta": "Mazsalacas novads",
                     "properties": {
                         "title": "Mazsalacas novads",
                         "reg": "ValmierasRD"
@@ -1222,6 +1291,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Naukšēnu novads",
+                    "vieta": "Naukšēnu novads",
                     "properties": {
                         "title": "Naukšēnu novads",
                         "reg": "ValmierasRD"
@@ -1238,6 +1308,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Neretas novads",
+                    "vieta": "Neretas novads",
                     "properties": {
                         "title": "Neretas novads",
                         "reg": "DaugavpilsRD"
@@ -1254,6 +1325,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Nīcas novads",
+                    "vieta": "Nīcas novads",
                     "properties": {
                         "title": "Nīcas novads",
                         "reg": "LiepajasRD"
@@ -1277,6 +1349,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ogres novads",
+                    "vieta": "Ogres novads",
                     "properties": {
                         "title": "Ogres novads",
                         "reg": "RigasRD"
@@ -1297,6 +1370,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ozolnieku novads",
+                    "vieta": "Ozolnieku novads",
                     "properties": {
                         "title": "Ozolnieku novads",
                         "reg": "RigasRD"
@@ -1325,6 +1399,7 @@
                     ],
                     "type": "MultiPolygon",
                     "id": "Olaines novads",
+                    "vieta": "Olaines novads",
                     "properties": {
                         "title": "Olaines novads",
                         "reg": "RigasRD"
@@ -1344,6 +1419,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Pārgaujas novads",
+                    "vieta": "Pārgaujas novads",
                     "properties": {
                         "title": "Pārgaujas novads",
                         "reg": "ValmierasRD"
@@ -1363,6 +1439,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Pavilostas novads",
+                    "vieta": "Pavilostas novads",
                     "properties": {
                         "title": "Pavilostas novads",
                         "reg": "LiepajasRD"
@@ -1381,6 +1458,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Pļaviņu novads",
+                    "vieta": "Pļaviņu novads",
                     "properties": {
                         "title": "Pļaviņu novads",
                         "reg": "DaugavpilsRD"
@@ -1397,6 +1475,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Preiļu novads",
+                    "vieta": "Preiļu novads",
                     "properties": {
                         "title": "Preiļu novads",
                         "reg": "DaugavpilsRD"
@@ -1415,6 +1494,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Priekules novads",
+                    "vieta": "Priekules novads",
                     "properties": {
                         "title": "Priekules novads",
                         "reg": "LiepajasRD"
@@ -1434,6 +1514,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Priekuļu novads",
+                    "vieta": "Priekuļu novads",
                     "properties": {
                         "title": "Priekuļu novads",
                         "reg": "ValmierasRD"
@@ -1459,6 +1540,7 @@
                     ],
                     "type": "MultiPolygon",
                     "id": "Raunas novads",
+                    "vieta": "Raunas novads",
                     "properties": {
                         "title": "Raunas novads",
                         "reg": "ValmierasRD"
@@ -1479,6 +1561,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Riebiņu novads",
+                    "vieta": "Riebiņu novads",
                     "properties": {
                         "title": "Riebiņu novads",
                         "reg": "DaugavpilsRD"
@@ -1496,6 +1579,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rojas novads",
+                    "vieta": "Rojas novads",
                     "properties": {
                         "title": "Rojas novads",
                         "reg": "VentspilsRD"
@@ -1512,6 +1596,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rucavas novads",
+                    "vieta": "Rucavas novads",
                     "properties": {
                         "title": "Rucavas novads",
                         "reg": "LiepajasRD"
@@ -1527,6 +1612,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rugāju novads",
+                    "vieta": "Rugāju novads",
                     "properties": {
                         "title": "Rugāju novads",
                         "reg": "RezeknesRD"
@@ -1542,6 +1628,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rundāles novads",
+                    "vieta": "Rundāles novads",
                     "properties": {
                         "title": "Rundāles novads",
                         "reg": "RigasRD"
@@ -1558,6 +1645,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rūjienas novads",
+                    "vieta": "Rūjienas novads",
                     "properties": {
                         "title": "Rūjienas novads",
                         "reg": "ValmierasRD"
@@ -1573,6 +1661,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Salacgrīvas novads",
+                    "vieta": "Salacgrīvas novads",
                     "properties": {
                         "title": "Salacgrīvas novads",
                         "reg": "ValmierasRD"
@@ -1591,6 +1680,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Salas novads",
+                    "vieta": "Salas novads",
                     "properties": {
                         "title": "Salas novads",
                         "reg": "DaugavpilsRD"
@@ -1608,6 +1698,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Salaspils novads",
+                    "vieta": "Salaspils novads",
                     "properties": {
                         "title": "Salaspils novads",
                         "reg": "RigasRD"
@@ -1627,6 +1718,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Saldus novads",
+                    "vieta": "Saldus novads",
                     "properties": {
                         "title": "Saldus novads",
                         "reg": "LiepajasRD"
@@ -1644,6 +1736,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Saulkrastu novads",
+                    "vieta": "Saulkrastu novads",
                     "properties": {
                         "title": "Saulkrastu novads",
                         "reg": "RigasRD"
@@ -1662,6 +1755,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Siguldas novads",
+                    "vieta": "Siguldas novads",
                     "properties": {
                         "title": "Siguldas novads",
                         "reg": "RigasRD"
@@ -1678,6 +1772,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Skrundas novads",
+                    "vieta": "Skrundas novads",
                     "properties": {
                         "title": "Skrundas novads",
                         "reg": "LiepajasRD"
@@ -1699,6 +1794,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Smiltenes novads",
+                    "vieta": "Smiltenes novads",
                     "properties": {
                         "title": "Smiltenes novads",
                         "reg": "ValmierasRD"
@@ -1715,6 +1811,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Strenču novads",
+                    "vieta": "Strenču novads",
                     "properties": {
                         "title": "Strenču novads",
                         "reg": "ValmierasRD"
@@ -1739,6 +1836,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Daugavpils novads",
+                    "vieta": "Daugavpils novads",
                     "properties": {
                         "title": "Daugavpils novads",
                         "reg": "DaugavpilsRD"
@@ -1755,6 +1853,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Aknīstes novads",
+                    "vieta": "Aknīstes novads",
                     "properties": {
                         "title": "Aknīstes novads",
                         "reg": "DaugavpilsRD"
@@ -1773,6 +1872,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Aizputes novads",
+                    "vieta": "Aizputes novads",
                     "properties": {
                         "title": "Aizputes novads",
                         "reg": "LiepajasRD"
@@ -1790,6 +1890,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ludzas novads",
+                    "vieta": "Ludzas novads",
                     "properties": {
                         "title": "Ludzas novads",
                         "reg": "RezeknesRD"
@@ -1811,6 +1912,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Rēzeknes novads",
+                    "vieta": "Rēzeknes novads",
                     "properties": {
                         "title": "Rēzeknes novads",
                         "reg": "RezeknesRD"
@@ -1829,6 +1931,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Talsu novads",
+                    "vieta": "Talsu novads",
                     "properties": {
                         "title": "Talsu novads",
                         "reg": "VentspilsRD"
@@ -1845,6 +1948,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Tērvetes novads",
+                    "vieta": "Tērvetes novads",
                     "properties": {
                         "title": "Tērvetes novads",
                         "reg": "RigasRD"
@@ -1866,6 +1970,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Tukuma novads",
+                    "vieta": "Tukuma novads",
                     "properties": {
                         "title": "Tukuma novads",
                         "reg": "VentspilsRD"
@@ -1883,6 +1988,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Vaiņodes novads",
+                    "vieta": "Vaiņodes novads",
                     "properties": {
                         "title": "Vaiņodes novads",
                         "reg": "LiepajasRD"
@@ -1901,6 +2007,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Valkas novads",
+                    "vieta": "Valkas novads",
                     "properties": {
                         "title": "Valkas novads",
                         "reg": "ValmierasRD"
@@ -1920,6 +2027,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Valmieras novads",
+                    "vieta": "Valmieras novads",
                     "properties": {
                         "title": "Valmieras novads",
                         "reg": "ValmierasRD"
@@ -1936,6 +2044,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Varakļānu novads",
+                    "vieta": "Varakļānu novads",
                     "properties": {
                         "title": "Varakļānu novads",
                         "reg": "DaugavpilsRD"
@@ -1951,6 +2060,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Vārkavas novads",
+                    "vieta": "Vārkavas novads",
                     "properties": {
                         "title": "Vārkavas novads",
                         "reg": "DaugavpilsRD"
@@ -1973,6 +2083,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Vecpiebalgas novads",
+                    "vieta": "Vecpiebalgas novads",
                     "properties": {
                         "title": "Vecpiebalgas novads",
                         "reg": "ValmierasRD"
@@ -1992,6 +2103,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Vecumnieku novads",
+                    "vieta": "Vecumnieku novads",
                     "properties": {
                         "title": "Vecumnieku novads",
                         "reg": "RigasRD"
@@ -2012,6 +2124,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Ventspils novads",
+                    "vieta": "Ventspils novads",
                     "properties": {
                         "title": "Ventspils novads",
                         "reg": "VentspilsRD"
@@ -2030,6 +2143,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Viesītes novads",
+                    "vieta": "Viesītes novads",
                     "properties": {
                         "title": "Viesītes novads",
                         "reg": "DaugavpilsRD"
@@ -2046,6 +2160,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Viļakas novads",
+                    "vieta": "Viļakas novads",
                     "properties": {
                         "title": "Viļakas novads",
                         "reg": "RezeknesRD"
@@ -2062,6 +2177,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Viļānu novads",
+                    "vieta": "Viļānu novads",
                     "properties": {
                         "title": "Viļānu novads",
                         "reg": "DaugavpilsRD"
@@ -2077,6 +2193,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Zilupes novads",
+                    "vieta": "Zilupes novads",
                     "properties": {
                         "title": "Zilupes novads",
                         "reg": "RezeknesRD"
@@ -2095,6 +2212,7 @@
                     ],
                     "type": "Polygon",
                     "id": "Dobeles novads",
+                    "vieta": "Dobeles novads",
                     "properties": {
                         "title": "Dobeles novads",
                         "reg": "RigasRD"
